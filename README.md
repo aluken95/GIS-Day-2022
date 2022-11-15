@@ -17,4 +17,6 @@ Table 2 - Smoking and non-smoking events of the case studies.
 
 Supplemental Table 1 - Normalized mean KDE statistics per case.
 
+For information on kernel density estimation, visit https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-analyst/how-kernel-density-works.htm. 
+
 For any further questions, please contact Amanda Luken at aluken1@jhu.edu.
